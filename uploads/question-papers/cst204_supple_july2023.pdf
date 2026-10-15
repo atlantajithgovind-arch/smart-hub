@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1644 >>
+stream
+BT
+/F1 16 Tf
+50 740 Td
+(DBMS \(CST204\) July 2023 Supplementary) Tj
+/F1 11 Tf
+0 -25 Td
+(Subject: Database Management Systems [CST204]) Tj
+0 -20 Td
+(Curriculum Scheme: 2019 Scheme | Exam Year: 2023 | Type: SUPPLEMENTARY) Tj
+0 -20 Td
+(Time: 3 Hours  |  Maximum Marks: 100  |  Official Revision Paper) Tj
+/F1 12 Tf
+0 -35 Td
+(PART A - Answer all questions. Each carries 3 marks.) Tj
+/F1 10 Tf
+0 -22 Td
+(1. Define time and space complexity with respect to asymptotic notation.) Tj
+0 -18 Td
+(2. Differentiate between Singly Linked List and Doubly Linked List with memory overhead.) Tj
+0 -18 Td
+(3. State the condition for queue overflow and underflow in circular array implementation.) Tj
+0 -18 Td
+(4. Explain properties of an AVL tree and illustrate Single and Double rotations.) Tj
+0 -18 Td
+(5. What is hashing? Explain how separate chaining handles collision.) Tj
+/F1 12 Tf
+0 -30 Td
+(PART B - Module Questions. Answer one full question from each module.) Tj
+/F1 10 Tf
+0 -22 Td
+(6. (a) Write an algorithm to convert infix expression to postfix notation using stack. [8 marks]) Tj
+0 -18 Td
+   ((b) Evaluate the postfix expression: 12 4 / 5 * 3 + [6 marks]) Tj
+0 -22 Td
+(7. (a) Construct a Binary Search Tree for elements: 50, 30, 70, 20, 40, 60, 80. [7 marks]) Tj
+0 -18 Td
+   ((b) Demonstrate deletion of a node with two children in a BST. [7 marks]) Tj
+0 -22 Td
+(8. (a) Explain QuickSort partitioning algorithm and analyze worst-case time. [8 marks]) Tj
+0 -18 Td
+   ((b) Compare MergeSort and QuickSort on stability and memory efficiency. [6 marks]) Tj
+/F1 9 Tf
+0 -40 Td
+(--- Smart Backlog Clearance Portal | Digital Examination Archive ---) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001937 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2007
+%%EOF
